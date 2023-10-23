@@ -1,4 +1,4 @@
-# Cyclic - Express Hello World
+# Cyclic - socialtest
 
 This is a basic starter Expressjs app with:
 
